@@ -13,9 +13,9 @@
   "author": "JakeHolliman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kogsio/littletiers/issues"
+    "url": "https://github.com/Jake-Holliman/heroku-first"
   },
-  "homepage": "https://github.com/kogsio/littletiers#readme",
+  "homepage": "https://github.com/Jake-Holliman/heroku-first",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
